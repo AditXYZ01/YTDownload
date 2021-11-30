@@ -1,1 +1,1 @@
-worker: python ytdl.py
+web: uwsgi uwsgi.ini
